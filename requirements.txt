@@ -1,0 +1,8 @@
+flask
+tensorflow
+librosa
+soundfile
+numpy
+scikit-learn
+pydub
+matplotlib
